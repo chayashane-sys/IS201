@@ -1,0 +1,50 @@
+ body{
+            font-family: Arial, sans-serif;
+            background-color: aliceblue;
+            color: darkblue;        } 
+        h1{
+            font-family: cursive;
+        }       
+        p{
+            border: 2px solid black;
+            padding: 5px;
+            margin: 10px 0;
+        }
+        img{
+            padding: 10px;
+            border: 1px solid black;
+            margin: 10px 0;
+        }
+        .rizz{
+            font-family: 'Courier New', Courier, monospace;
+            color: black;
+            background-color: lightgray;
+            font-size: 18px;
+            font-weight: bold;
+            text-decoration: wavy underline;
+            border: dashed 2px black;
+        }
+        .rizz:hover{
+            color: white;
+            background-color: black;
+            font-size: larger;
+            text-decoration: none;
+            text-align: center;
+        }
+        li:hover{
+            background-color: lightblue;
+            font-weight: bold;
+        }
+        a{
+            color: darkred;
+            text-decoration: none;
+        }
+        a:visited{
+            color: purple;
+        }
+        // make style for ordered list
+        ol{
+            background-color: lightyellow;
+            padding: 10px;
+            border: 2px solid orange;
+        }
